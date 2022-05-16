@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T05:54:56.090Z" agent="5.0 (iPad; CPU OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/101.0.4951.44 Mobile/15E148 Safari/604.1" etag="c1eQI9ASwddfye_YnCL9" version="18.0.5" type="github"><diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">7VvbcuI4EP0aHkP5DjwOmWSGqtmq1M5en1LCFkY7suWSRALz9SuBbGwJJ4ZxwCTmJVa7JVvdp49aLWfg3ibrLxRky99IBPHAsaL1wP08cBzbs8bij5RsdpKRpwQxRZFS2gu+o59QCS0lXaEIsooiJwRzlFWFIUlTGPKKDFBKnqtqC4KrT81ADA3B9xBgU/o3ivhSSW3L2t/4ClG8VI8e++rGHIQ/YkpWqXpeSlK4u5OAfBilypYgIs8lkXs3cG8pIXx3laxvIZZmzS2263dfc7d4ZQpT3qRDEDm+FU28cRQAezQa34zUe/FNbgYYCauoJqF8SWKSAny3l063U4VyREu0ljzB4tIWl3CN+D+l63+lytBXrQdIUQI5pKqjeGW6KdRlo6Qvm3oHDOYQTwtj3xJM5K2tud0p44DyTxIHmuweYaxG2LYV8naPibQeQlLSF62S9n+Q841qgxUnQrQ30DdCMjUXxin5UWBIShYk5fcgQViGxl+QRiAFSqzGsx3Tlcq7jKxoCGv8lwcKoDHkNTpqaOnY0sAKIF8gETamG6FAIQYcPVXDAaioigs91VUYDmxKChlBKWelkR+kQCgognBcFQOKHmwdqpq+Z72oLy52b5C3SlPZi7bwbxgK4z4U3n0ouFcZCoF35lBQE34CeKVMYMTGE6QcicXzm0TiA2GII5KKW3PCOUmk6/OlTqInAmxZhAnAKJaqoXCvRPR0IWCWQ3ggjLP9VeMpf9wn1ZdLiB2Al3hqJt8wWccySxlCLFIFKnsOE8RCMW+QQrJiw4SkRDYf54CLt9hUglmOFJIEhY3CrRGk5fAcKCPdTOSotTCXk4XrFwGa3x1XkeFMVPu5lMHkRLosJS+BVY/pEq6OhI1twKQFCrWOo9Ci0VPo0RTqNKDQoG0KPR1uJiudH279iv22cPM6AzfnvItiu4sfhQwxTigrrh7t61zyXF9b8qyGS57zFkvepKegq6YgtwEF+Z2hILenoC5QkD/pEgXZbgc4qM+6T+cgrwEH2W1z0EmFC70m541eLlzohQ5Nv/3ChdcTZBcIUs/R3NFFCdLrCfKqCdK/GoLUK7WdI0i/J8guEKSeQV6YIC0DBGc7+ur57gwl1mZk5boauHaEq3pp+PpFHgrOy0PaCdNi+3sn/CTbh07PSrzVEmvlq9PRp01vw1omhn43D6DE1HjV0dI3P8F8qyANo9Z0oe1PB/5nCR/BA0xZuIQmDBe8HigZCFEa/7ElDLEPqfopqHNnC7l24FSdcqAY4Z3NJyPTJ2ZkfzifHFrez+eTsekT/+P5xNdqF8UR+EV8MjF9Ypbx3r1PggZnOWfzST5o2Sdm5eDD+eSi3FW8/t4nM8MlpYQ/xIAxmV6VHfTaFuOExD6oNfSrSbsy8401tD1nosHfsLR/wNK57BfTf+MrNEvz4G6PYqT/xkCu/qWmPlDNPmI/UK5IFgsGW99r5HuLEoj+7EHUDohsvZChf1jWFET6QM64YyAyz15nZhbVo+gkFHn2K85viiJP/x6yaygyD6hmzNy01pU+EhRF2+LbC3WLQuf10gWGIH1MQJaJRGOYLTdMjvOYreR8tKpFpdZyRAmj5sveRrg+VMfBKPtajqWScQqlFpIgR8fRgSRofCAedLi1kwSZRfsZa14v60FzJtDo5GP7lwSNWR2bMXOL2YOmY6Bx3w40orn/T8Pdarb/T0737n8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-16T06:07:34.851Z" agent="5.0 (iPad; CPU OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/101.0.4951.44 Mobile/15E148 Safari/604.1" etag="rK8FDQjeGAjvEzJ-Qibl" version="18.0.5" type="github">
+  <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
+    <mxGraphModel dx="682" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6d250d948d6a1778-16" value="R1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="362" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="6d250d948d6a1778-2" target="6d250d948d6a1778-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.resistors.resistor_1;rounded=1;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="350" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="6d250d948d6a1778-3" target="6d250d948d6a1778-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.resistors.resistor_1;rounded=1;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.resistors.resistor_1;rounded=1;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="350" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.resistors.resistor_1;rounded=1;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="590" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-17" value="R2" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="362" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-19" value="R3" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="650" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6d250d948d6a1778-20" value="R4" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="650" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5aaBr5RV2Auixe7ddYP-3" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6d250d948d6a1778-5">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="430" as="sourcePoint" />
+            <mxPoint x="630" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5aaBr5RV2Auixe7ddYP-6" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6d250d948d6a1778-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
